@@ -1,6 +1,4 @@
-# Author: Nolan Reichkitzer
-# GitHub username: nolanreichkitzer
-# Date: 11/27/2023
+
 # Description: Unit Tests for ChessVar.py
 
 import unittest
