@@ -1,6 +1,4 @@
-# Author: Nolan Reichkitzer
-# GitHub username: nolanreichkitzer
-# Date: 12/13/2023
+
 # Description: This module contains the graphical user interface for the chess game defined in ChessVar.
 #              Pygame is employed to render the graphics of the game. The rules of this game are different
 #              from the normal rules. In this version, the winner is the first player to capture all of an
